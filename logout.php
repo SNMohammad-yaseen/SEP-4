@@ -2,6 +2,7 @@
 session_start();
 session_destroy();
 ?>
+<!-- THSI IS MARKUP LANGUAGE  -->
 <!DOCTYPE html>
 <html lang="en">
   <head>
